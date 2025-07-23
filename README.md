@@ -1,4 +1,4 @@
-## Olá! Prazer, me chamo Maicon Schwartz.
+## Olá! Prazer, me chamo Maicon Schwartz. 👾
 
 ![Schwartz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnschwartz&show_icons=true&theme=synthwave)
 
