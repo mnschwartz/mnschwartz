@@ -9,6 +9,10 @@
 
 ###
 
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE428E&fontSize=30&fontAlignY=22&fontColor=FFFFFF" /></div>
+
+###
 <p align="center"><b>Linguagens e Tecnologias 💻</b></p>
 
 <div align="center">
