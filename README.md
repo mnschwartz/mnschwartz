@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Eu sou o Maicon Schwartz :) 👾</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=31&duration=4000&pause=1000&color=FEFEFE&center=true&vCenter=true&width=435&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E;Eu+sou+o+Maicon+Schwartz.+%3A)" alt="Typing SVG" /></a>
 
 ###
 
