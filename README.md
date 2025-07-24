@@ -3,14 +3,14 @@
 ###
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mnschwartz&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mnschwartz&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mnschwartz&theme=algolia&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mnschwartz&show_icons=true&theme=algolia&layout=compact" />
  </div>
 
 ###
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE428E&fontSize=30&fontAlignY=22&fontColor=FFFFFF" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0190D5&fontSize=30&fontAlignY=22" /></div>
 
 ###
 <p align="center"><b>Linguagens e Tecnologias 💻</b></p>
